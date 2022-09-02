@@ -1,0 +1,1 @@
+insert into user (id,password,username) values(101,'$2a$10$3r3kBvl1hibCWpSP/NJ.6.aEcxahqrs8lREvzb8wtIzV7QjPEcXda','test');
